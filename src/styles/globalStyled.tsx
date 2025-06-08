@@ -13,6 +13,8 @@ export const GlobalStyle = createGlobalStyle`
     body {
         font-family: 'Poppins', sans-serif;
         color: ${Theme.colors.font};
+        line-height: 1.2;
+
     }
 
     a {
